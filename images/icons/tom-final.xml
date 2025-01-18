@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tom-final.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="lose0000" x="293" y="125" width="139" height="126" frameX="-21" frameY="-38" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="lose0001" x="0" y="133" width="144" height="129" frameX="-17" frameY="-34" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="lose0002" x="0" y="0" width="145" height="133" frameX="-16" frameY="-33" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="normal0000" x="247" y="262" width="121" height="119" frameX="-36" frameY="-39" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="normal0001" x="124" y="262" width="123" height="120" frameX="-34" frameY="-39" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="normal0002" x="0" y="262" width="124" height="121" frameX="-32" frameY="-38" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="win0000" x="293" y="0" width="145" height="125" frameX="-22" frameY="-42" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="win0001" x="144" y="133" width="147" height="126" frameX="-17" frameY="-39" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="win0002" x="145" y="0" width="148" height="130" frameX="-14" frameY="-35" frameWidth="200" frameHeight="200"/>
+</TextureAtlas>
