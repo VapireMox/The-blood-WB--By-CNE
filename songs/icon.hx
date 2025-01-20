@@ -2,13 +2,19 @@ importAddons("AnimationIcon");
 
 var allowAnimationIcon:Array<{var name:String; var scale:Float; var x:Float; var y:Float;}> = [
 	{
-		name: "bf",
+		name: "hnbf",
 		scale: 1.75,
 		x: 118,
 		y: -125
 	},
 	{
 		name: "tom",
+		scale: 1,
+		x: 58,
+		y: -35
+	},
+	{
+		name: "tom-final",
 		scale: 1,
 		x: 58,
 		y: -35
