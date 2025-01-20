@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-250" y="100" sprite="hnbf" scale="0.65" flipX="true" isPlayer="true" icon="hnbf" holdTime="4">
+	<anim name="singRIGHT" anim="right" x="0" y="0" fps="24" loop="false" indices="0..6"/>
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="0" y="0" fps="24" loop="false" indices="0..6"/>
+	<anim name="singLEFT" anim="left" x="0" y="0" fps="24" loop="false" indices="0..6"/>
+	<anim name="singUP" anim="up" x="0" y="0" fps="24" loop="false" indices="0..5"/>
+</character>

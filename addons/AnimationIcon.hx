@@ -1,7 +1,7 @@
 import Reflect;
 
 /**
- * 用于ab
+ * 这个真的太牛逼了，哈哈哈哈哈哈，都给我狠狠地三连
  */
 class AnimationIcon extends FlxSprite {
 	public var iconName:String = "bf";

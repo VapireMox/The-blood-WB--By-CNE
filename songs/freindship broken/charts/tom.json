@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "hnbf",
 		"player2": "dad",
 		"events": [
 		],
@@ -4408,7 +4408,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "hngf",
 		"disableNoteRGB": true,
 		"song": "Friendship_broken",
 		"stage": "stage",
